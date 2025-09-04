@@ -24,7 +24,7 @@ Built for Alex (a college student) who wants an easy way to search for books.
 ## 📦 Setup
 1. Clone repo:
    ```bash
-   git clone https://github.com/your-username/book-finder.git
+   git clone https://github.com/moula2002/Book-Finder
    cd book-finder
 
 Domain link
